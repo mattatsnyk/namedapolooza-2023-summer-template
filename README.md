@@ -22,12 +22,12 @@ Namedapolooza Summer 2023 Base Template used to build your project off of.
 \[ Matt Mintzer, Colin Simning, Sarah Gold(?) \]
 
 ## Prerequisites
-\[ View: https://docs.google.com/document/d/1eNmMNqMmPMCSQbxpwHY7EA7G3DHH2qnuxbUsjhIViVA/edit?usp=sharing \]
+View the Google Doc: https://docs.google.com/document/d/1eNmMNqMmPMCSQbxpwHY7EA7G3DHH2qnuxbUsjhIViVA/edit?usp=sharing 
 
 ## Getting Started
-\[ Make a copy of the Google Doc.\
-\ Download it.\
-\ Share it with customers.\]
+Make a copy of the Google Doc. \
+Download it. \
+Share it with customers.
 
 ### Setup
 \[ Include step-by-step instructions on how to set up the project locally. This may include cloning the repository, installing dependencies, and any other required configurations. \]
