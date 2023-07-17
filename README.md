@@ -5,24 +5,24 @@
 Namedapolooza Summer 2023 Base Template used to build your project off of.
 
 - [x] Find the repository
-- [ ] Used the template as a guideline
-- [ ] Fill in the 👇 details for your project - all places with \[ \] statements
+- [x] Used the template as a guideline
+- [x] Fill in the 👇 details for your project - all places with \[ \] statements
 - [ ] Build your project
 - [ ] Create your presentation deck
 - [ ] Book your presentation slot (inviting the entire team)
 
 ---
 
-# \[ Project Name \]
+# \[ Better Customer Comms \]
 
 ## Description
-\[ Provide a brief description of the project. \]
+\[ Snyk is always improving and adding new features and functionality.  It's important that our clients are kept up-to-date with our changes so they can best utilize our product with minimal surprises \]
 
 ## Group Members
-\[ List all members of your group \]
+\[ Matt Mintzer, Colin Simning, Sarah Gold(?) \]
 
 ## Prerequisites
-\[ List any software, tools, or libraries that users need to have installed on their local machines to run the project. \]
+\[ NA \]
 
 ## Getting Started
 \[ Provide instructions on how to get started with the project. \]
