@@ -19,7 +19,7 @@ Namedapolooza Summer 2023 Base Template used to build your project off of.
 \[ Snyk is always improving and adding new features and functionality.  It's important that our clients are kept up-to-date with our changes so they can best utilize our product with minimal surprises \]
 
 ## Group Members
-\[ Matt Mintzer, Colin Simning, Sarah Gold(?) \]
+\[ Matt Mintzer, Colin Simning, Sarah Gold\]
 
 ## Prerequisites
 View the Google Doc: https://docs.google.com/document/d/1eNmMNqMmPMCSQbxpwHY7EA7G3DHH2qnuxbUsjhIViVA/edit?usp=sharing 
