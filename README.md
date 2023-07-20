@@ -33,7 +33,7 @@ Fill out preferred communications. \
 Save document renamed with your company name. Ex. "Customer Preferred Communications for Hooli" \
 Submit document to a member of your Snyk account team: the Solutions Engineer, Technicall Success Manager, Implementation Engineer, or Account Executive. \
 
-\ Categories: Product Announcements, Outages/Service Information, Events, General Communications ]
+\ Categories: Product Announcements, Outages/Service Information, Events, General Communications 
 
 ## Future Features
 \ If you like this offering and would like to see it or a version of it offered as part of Snyk's Group Settings, then you can submit a support ticket with a feature request here: https://support.snyk.io/hc/en-us/requests/new \
