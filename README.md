@@ -17,6 +17,7 @@ Namedapolooza Summer 2023 Base Template used to build your project off of.
 
 ## Description
  This document is a solution for any Group Admins or team leads who use Snyk and are looking for a better way to receive communications from Snyk. \
+ 
 Snyk is always improving and adding new features and functionality. As Snyk users, you may find that you have a preference for the kind of updates you want to receive and that you have a preference for who receives the updates. Currently, updates can be found in the Snyk blog (https://snyk.io/blog/), Updates (https://updates.snyk.io/), and release notes (https://github.com/snyk/cli/releases). Users may also be receiving updates via Slack. To better manage the updates you receive and how you receive them, please download, fill out, and submit the Customer Preferred Communications document to your Snyk Account team. 
 
 ## Group Members
