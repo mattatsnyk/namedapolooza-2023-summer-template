@@ -1,19 +1,17 @@
 ---
-# _Remove The Section_
-
 ## namedapolooza-2023-summer-template
 Namedapolooza Summer 2023 Base Template used to build your project off of.
 
 - [x] Find the repository
 - [x] Used the template as a guideline
 - [x] Fill in the 👇 details for your project - all places with \[ \] statements
-- [ ] Build your project
-- [ ] Create your presentation deck
-- [ ] Book your presentation slot (inviting the entire team)
+- [x] Build your project
+- [x] Create your presentation deck
+- [x] Book your presentation slot (inviting the entire team)
 
 ---
 
-# \[ Better Customer Comms \]
+#  Better Customer Comms 
 
 ## Description
  This document is a solution for any Group Admins or team leads who use Snyk and are looking for a better way to receive communications from Snyk. \
